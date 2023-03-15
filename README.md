@@ -7,7 +7,7 @@
           
    <img height = "400" weight = "400" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
    
-## Atualmente estou aprendendo java!
+### Atualmente estou aprendendo java!
 - Sempre em busca de novos desafios!
 - Querendo aprender mais sobre programação!
 - Sempre me dedicando em busca de um futuro melhor!
