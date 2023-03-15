@@ -5,7 +5,9 @@
           [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/thiagoatl_)
           [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://twitch.tv/thiagoatl)
           
-
    <img height = "400" weight = "400" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
    
 ## Atualmente estou aprendendo java!
+- Sempre em busca de novos desafios!
+- Querendo aprender mais sobre programação!
+- Sempre me dedicando em busca de um futuro melhor!
