@@ -1,7 +1,6 @@
   # Hi there / Oi Pessoal 👋
   
   [![Linkedi](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiagoatl/)
-          [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=whit)](https://www.youtube.com/channel/UC8yh4Ow0PjzE3xmGadDOing)
 
   
    
