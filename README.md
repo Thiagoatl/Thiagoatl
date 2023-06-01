@@ -33,7 +33,5 @@ Eu sou o Thiago e aqui você vai me conhecer um pouco mais :D <p>
      
 <div  align="center">
   <h1 align="center">Fale comigo e descubra mais <3</h1>
-  <a href = "mailto:thiagoatkl@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" width="140" height="60" target="_blank" /a>
-   
-  <a href="https://www.linkedin.com/in/thiagoatl/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="140" height="60" target="_blank"></a> 
+  <a href = "mailto:thiagoatkl@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" width="160" height="60" target="_blank" href="https://www.linkedin.com/in/thiagoatl/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="160" height="60" target="_blank" /a>
   </div>
