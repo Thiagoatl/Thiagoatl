@@ -27,3 +27,6 @@ Eu sou o Thiago e aqui você vai me conhecer um pouco mais :D <p>
 - Sempre em busca de novos desafios!
 - Querendo aprender mais linguagens!
 - Sempre me dedicando em busca de um futuro melhor!
+
+      
+![snake gif](https://github.com/Thiagoatl/Thiagoatl/blob/output/github-contribution-grid-snake.svg)
