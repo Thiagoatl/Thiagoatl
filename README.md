@@ -1,15 +1,15 @@
-<h1 align="center">Hi there / Oi Pessoal 👋 <3</h1>
-<h3 align="center">Eu sou o Thiago e aqui você vai me conhecer um pouco mais :D</h1> <p>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Rowdies&weight=800&size=30&duration=2000&pause=1000&color=AF0CFF&background=FFFFFF00&center=true&vCenter=true&multiline=true&width=950&lines=Ol%C3%A1+meu+nome+%C3%A9+Thiago+e+sou+um+Dev+Full-Stack!" alt="Typing SVG" /></a>
+
   <div>
   
   ![Thiagoatl's GitHub stats](https://github-readme-stats.vercel.app/api?username=thiagoatl&show_icons=true&theme=midnight-purple)
-  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thiagoatl&layout=compact&langs_count=16&theme=midnight-purple"/>
+  <img align="right" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thiagoatl&layout=compact&langs_count=16&theme=midnight-purple"/>
 </div>
 <br>
 <div  align="center"> 
   <div style="display: inline_block"><br>
-    <img align="left" height="250" alt="coding-time" src="code.gif">
-    <h1 align="center">Melhores Tecnologias <3</h1>
+ <img align="left" height="250" alt="coding-time" src="code.gif">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Rowdies&weight=800&size=30&pause=100000&color=DC690F&background=FFFFFF00&center=true&vCenter=true&width=950&height=60&lines=Tecnologias+que+eu+domino%3A" alt="Typing SVG" /></a> <br>
       <img align="center" height="30" width="40" alt="java-icon"  src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg">
       <img align="center" height="30" width="40" alt="git-icon"  src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg">
       <img align="center" height="30" width="40" alt="mysql-icon"  src="https://github.com/tandpfun/skill-icons/raw/main/icons/MySQL-Dark.svg">
@@ -22,16 +22,14 @@
     <img align="center" height="30" width="40" alt="nodejs-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
    </div>
     <p>
-    
-    
-- Sempre em busca de novos desafios!
-- Querendo aprender mais linguagens!
-- Sempre me dedicando em busca de um futuro melhor!
+  <br/>
+      
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Rowdies&weight=800&size=30&duration=1200&pause=1000&color=DC1E1E&background=FFFFFF00&center=true&vCenter=true&multiline=true&width=950&height=150&lines=◉Sempre+em+busca+de+novos+desafios!;◉Querendo+aprender+mais+tecnologias!;◉Me+dedicando+em+busca+de+um+futuro+melhor!" alt="Typing SVG" /></a>
 
       
 ![snake gif](https://github.com/Thiagoatl/Thiagoatl/blob/output/github-contribution-grid-snake.svg)
      
 <div  align="center">
-  <h1 align="center">Fale comigo e descubra mais <3</h1>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Rowdies&weight=800&size=30&pause=100000&color=0670DC&background=FFFFFF00&center=true&vCenter=true&width=950&height=60&lines=Se+conecte+comigo+pelas+minhas+redes%3A" alt="Typing SVG" /></a>
   <a href = "mailto:thiagoatkl@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" width="160" height="60" target="_blank" href="https://www.linkedin.com/in/thiagoatl/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="160" height="60" target="_blank" /a>
   </div>
