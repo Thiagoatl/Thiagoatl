@@ -2,7 +2,9 @@
 
   <div align="center>
   
-  ![Thiagoatl's GitHub stats](https://github-readme-stats.vercel.app/api?username=thiagoatl&show_icons=true&theme=midnight-purple)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=thiagoatl&theme=midnight-purple" alt="Thiagoatl's GitHub stats">
+</a>
   <img align="right" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thiagoatl&layout=compact&langs_count=16&theme=midnight-purple"/>
 </div>
 <br>
