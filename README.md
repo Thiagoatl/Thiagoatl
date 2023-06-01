@@ -1,5 +1,5 @@
-  <h3> Hi there / Oi Pessoal 👋 </h3>
-Eu sou o Thiago e aqui você vai me conhecer um pouco mais :D <p>
+<h1 align="center">Hi there / Oi Pessoal 👋 <3</h1>
+<h3 align="center">Eu sou o Thiago e aqui você vai me conhecer um pouco mais :D</h1> <p>
   <div>
   
   ![Thiagoatl's GitHub stats](https://github-readme-stats.vercel.app/api?username=thiagoatl&show_icons=true&theme=midnight-purple)
