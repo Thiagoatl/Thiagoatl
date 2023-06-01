@@ -2,8 +2,8 @@
 Eu sou o Thiago e aqui você vai me conhecer um pouco mais :D <p>
   <div>
   
-  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=Thiagoatl&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
-  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thiagoatl&layout=compact&langs_count=16&theme=great-gatsby"/>
+  ![Thiagoatl's GitHub stats](https://github-readme-stats.vercel.app/api?username=thiagoatl&show_icons=true&theme=radical)
+  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thiagoatl&layout=compact&langs_count=16&theme=radical"/>
 </div>
 <br>
 <div  align="center"> 
